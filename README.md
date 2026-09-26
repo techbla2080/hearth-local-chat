@@ -1,5 +1,11 @@
 # Hearth — Local intelligence
 
+![Hearth campaign artwork: Your AI. On your hardware.](marketing/hearth-launch.png)
+
+**Built by Pranav Agarwal · [Discuss a local AI project on X](https://x.com/PranavAgarwal82)**
+
+Working today: local model chat, streamed responses, configurable system instructions and measured inference performance. Planned next: document retrieval and evaluated fine-tuning experiments. The image above is campaign artwork, not a screenshot or a hardware requirement.
+
 Local LLM portfolio project 01 by Pranav Agarwal. A browser chat workspace backed by an existing local Ollama installation. This is inference, not fine-tuning or RAG.
 
 ## Start

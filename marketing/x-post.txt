@@ -1,0 +1,9 @@
+Your AI. On your hardware.
+
+I built Hearth: local LLM chat with system instructions, streaming and performance metrics. No cloud LLM API key needed.
+
+Next: RAG + fine-tuning.
+
+Planning a private AI workflow? DM me.
+
+https://github.com/techbla2080/hearth-local-chat
